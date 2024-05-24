@@ -1,4 +1,4 @@
----
+Prasad---
 title: Add Login to your Angular Application
 description: "Auth0 allows you to add authentication to your Angular application and gain access to user profile information. This guide demonstrates common snippets used to integrate Auth0 with any new or existing Angular application using the Auth0 Angular SDK."
 interactive: true
